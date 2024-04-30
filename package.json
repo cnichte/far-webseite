@@ -1,7 +1,7 @@
 {
-  "name": "TailBliss",
-  "version": "0.1.1",
-  "description": "Hugo + Alpine.js + TailwindCSS",
+  "name": "far-websseite",
+  "version": "1.0.0",
+  "description": "Hugo + Tailbliss (Alpine.js + TailwindCSS)",
   "main": "index.js",
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nusserstudios/tailbliss.git"
+    "url": "git+https://gitlab.com/glimpse-of-life/far-webseite.git"
   },
   "keywords": [
     "hugo",
@@ -36,10 +36,10 @@
     "categories",
     "tags"
   ],
-  "author": "NusserStudios",
+  "author": "Carsten Nichte",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nusserstudios/tailbliss/issues"
+    "url": "https://gitlab.com/glimpse-of-life/far-webseite/issues"
   },
-  "homepage": "https://github.com/nusserstudios/tailbliss"
+  "homepage": "https://gitlab.com/glimpse-of-life/far-webseite"
 }
