@@ -1,0 +1,30 @@
+{{ define "main" }}
+<main>
+    <article>
+        <header class="mb-4 bg-primary-600">
+            <span class="py-96">
+                <h1 class="py-8 text-4xl font-black text-center text-white capitalize">
+                    {{ .Title }}
+                </h1>
+            </span>
+        </header>
+        {{ with .Content }}
+        <div class="max-w-2xl px-6 mx-auto mt-6 prose dark:prose-invert dark:text-white">
+            {{- . -}}
+        </div>
+        {{ end }}
+
+        <h2 class="py-5 text-3xl text-center text-gray-900 dark:text-gray-300">Aktive Mitglieder</h2>
+
+        {{ partial "team-template.html" (dict "myStuff" . "myStatus" "aktiv" ) }}
+
+        <h2 class="py-5 text-3xl text-center text-gray-900 dark:text-gray-300">Inaktive Mitglieder / Sponsoren</h2>
+
+        {{ partial "team-template.html" (dict "myStuff" . "myStatus" "sponsor" ) }}
+
+    </article>
+    <div class="max-w-xl mx-auto my-16">
+        {{ partial "pagination" . }}
+    </div>
+</main>
+{{ end }}

@@ -1,0 +1,41 @@
+{{/*
+  Gallerie mit Lightbox, Bootstrap Version.
+  Zeigt ein einzelnes Bild, die restlichen werden ausgeblendet, und sind über die Lightbox zu sehen.
+
+  Examples:
+
+  {{< lightbox >}}
+  {{< lightbox folder="images/*" showImageNr=1 >}}
+*/}}
+
+{{- $folder := "" -}}
+{{- $showImageNr := 0 -}}
+{{- $galleryID := "0" -}}
+
+{{- $counter := 0 -}}
+
+{{- if .IsNamedParams -}}
+  {{- $folder = .Get "folder" | default "images/*"  -}}
+  {{- $showImageNr = .Get "showImageNr" | default 0  -}}
+  {{- $galleryID = .Get "id" | default "0"  -}}
+{{- else -}}
+  {{ errorf "No Named Parameters provided!" }}
+{{- end -}}
+
+<div class="row d-flex justify-content-center pb-4" style="position: relative;">
+
+    {{ $images := .Page.Resources.Match $folder }}
+
+    {{ range $index, $image := $images }}
+    <a data-fslightbox="gallery{{$galleryID}}" href="{{ .Permalink }}" title="Image Gallery. Klick to open Lightbox.">
+      <div {{ if ne $counter $showImageNr }} class="d-none" {{ end }} style="position:relative; box-sizing:border-box;">
+        <img src="/images/stack.svg" class="opacity-50" style="width: 2rem; height: 2rem; position: absolute!important; top: 1rem; right: 1rem; filter: invert(1) grayscale(100);">
+        <img src="{{ .RelPermalink }}" class="d-block w-100 img-fluid" alt="Slide {{ add $index 1}}">
+      </div>
+    </a>
+
+    {{ $counter = add $counter 1 }}
+
+    {{ end }}
+
+</div>

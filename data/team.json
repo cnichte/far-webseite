@@ -1,0 +1,100 @@
+[
+    {
+        "name": "David Madlener",
+        "image": "images/team/david-madlener.jpg",
+        "aufgaben": "Softwareentwicklung, Elektronik. Systemarchitektur, Simulation, elektronische Bodenunterstützungssysteme. Vorsitzender FAR e.V.",
+        "hintergrund": "PhD Astrophysics, System Architect at DC Vision Systems.",
+        "status": "aktiv"
+    },
+    {
+        "name": "Julian Adler",
+        "image": "images/team/julian-adler.jpg",
+        "aufgaben": "Mechanik, Konstruktion, Rettungssysteme. Stellvertretender Vorsitzender FAR e.V.",
+        "hintergrund": "M.Sc. Aerospace Technology, M.Eng. Electrical Engineering, 7 years System Engineer EUROFIGHTER GAF -> Fault Analysis -> Continued Airworthiness -> Maintenance Organisation.",
+        "status": "aktiv"
+    },
+    {
+        "name": "Hagen Hübner",
+        "image": "images/team/hagen-huebner.jpg",
+        "aufgaben": "Antriebstechnik: Triebwerksentwicklung, Treibstoffherstellung, Pyrotechnik.",
+        "hintergrund": "Diplom-Geologe (M.Sc. Geologie), unterrichtet Chemie, CS, Physik, mehrere Wissenschaftsexpeditionen FS Meteor, Hochleistungsraketenbau seit 2008, Amateur-Experimentelle Raketentechnik, Staatlich geprüfter Pyrotechniker mit Herstellungserlaubnis für Raketenmotoren und Pyrotechnik  nach §7 und §27 SprengG.",
+        "status": "aktiv"
+    },
+    {
+        "name": "Diez Roggisch",
+        "image": "images/team/diez-roggisch.jpg",
+        "aufgaben": "Softwareentwicklung",
+        "hintergrund": "Diplom-Informatiker, Embedded Entwickler",
+        "status": "aktiv"
+    },
+    {
+        "name": "Siegfried Oeckl",
+        "image": "images/team/siegfried-oeckl.jpg",
+        "aufgaben": "Treibstoffentwicklung und Herstellung",
+        "hintergrund": " Promovierter Diplom-Chemiker, langjährige Tätigkeit in der Chemischen Industrie (Forschung, Entwicklung, Produktion), daneben seit 1984 experimenteller Amateurraketenbau, Herstellerlaubnis nach § 27 Spreng-Gesetz.",
+        "status": "aktiv"
+    },
+    {
+        "name": "Hans-Joachim Oelkers",
+        "image": "images/team/achim-oelkers.jpg",
+        "aufgaben": "Embedded Entwicklung",
+        "hintergrund": "Diplom-Ingenieur Elektrotechnik",
+        "status": "aktiv"
+    },
+    {
+        "name": "Peter Schramm",
+        "image": "images/team/peter-schramm.jpg",
+        "aufgaben": "",
+        "hintergrund": "",
+        "status": "sponsor"
+    },
+    {
+        "name": "Heinz-Joachim Woelky",
+        "image": "images/team/heinz-joachim-woelky.jpg",
+        "aufgaben": "",
+        "hintergrund": "",
+        "status": "aktiv"
+    },
+    {
+        "name": "Michael Witthaus",
+        "image": "images/team/michael-witthaus.jpg",
+        "aufgaben": "",
+        "hintergrund": "",
+        "status": "aktiv"
+    },
+    {
+        "name": "Victor Roth",
+        "image": "images/team/victor-roth.jpg",
+        "aufgaben": "",
+        "hintergrund": "",
+        "status": "aktiv"
+    },
+    {
+        "name": "Carsten Nichte",
+        "image": "images/team/carsten-nichte.jpg",
+        "aufgaben": "Fotografische Dokumentation, Grafik Design, Software-Entwicklung.",
+        "hintergrund": "Fotograf, Dipl. Ing. Nachrichtentechnik, Business-Analyst und Software-Entwicklung beim Deutschen Zentrum für Luft und Raumfahrt e.V.",
+        "status": "aktiv"
+    },
+    {
+        "name": "Andreas Jörg",
+        "image": "",
+        "aufgaben": "",
+        "hintergrund": "",
+        "status": "aktiv"
+    },
+    {
+        "name": "Dennis Sas",
+        "image": "",
+        "aufgaben": "",
+        "hintergrund": "",
+        "status": "aktiv"
+    },
+    {
+        "name": "Maximilian Nichte",
+        "image": "",
+        "aufgaben": "",
+        "hintergrund": "",
+        "status": "sponsor"
+    }
+]
