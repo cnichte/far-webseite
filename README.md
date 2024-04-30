@@ -2,8 +2,8 @@
 
 Die [Webseite](https://alternative-raumfahrt.de) der Forschungsgemeinschaft alternative Raumfahrt e.V.
 
-* [GitLab](https://gitlab.com/glimpse-of-life/far-test)
-* [Netlify Test-Umgebung](https://cute-kheer-16d1b4.netlify.app/)
+* [GitLab homepage](https://gitlab.com/glimpse-of-life/far-webseite)
+* [Netlify Test-Umgebung](https://alternative-raumfahrt.netlify.app/)
 
 Basiert auf
 
