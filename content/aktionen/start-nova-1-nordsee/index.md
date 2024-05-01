@@ -2,7 +2,6 @@
 title: "Start der Nova I mit der GOSA"
 date: 2024-04-30T13:00:00+08:00
 draft: false
-pinned: "left"
 language: de
 summary: Die FAR startet erstmalig die Nova, als Teil der ersten Demo-Mission der GOSA... 
 description: 
