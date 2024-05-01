@@ -3,7 +3,6 @@ title: "Test 2 - Paragon Booster"
 date: 2018-11-13T12:00:36+08:00
 draft: false
 language: de
-featured_image: ../assets/images/featured/featured-img-placeholder.png
 summary: Am Samstag den 10.11.2018 führten wir den zweiten Test des Paragon Antriebs in Zülpich durch.
 description:
 author: Julian

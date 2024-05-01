@@ -3,7 +3,6 @@ title: "Test 1 - Paragon Booster"
 date: 2017-12-18T11:10:36+08:00
 draft: false
 language: de
-featured_image: ../assets/images/featured/featured-img-placeholder.png
 summary: Am Samstag den 16. Dezember 2017 haben wir auf dem Gelände des LSC Zülpich das erste mal den Paragon Booster erfolgreich getestet...
 description:
 author: Carsten

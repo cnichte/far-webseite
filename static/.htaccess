@@ -1,0 +1,15 @@
+# Auf die Fehlerseite umleiten
+ErrorDocument 404 /404.html
+
+RewriteEngine On
+# Gegebenenfalls www entfernen um duplicate content zu vermeiden
+RewriteCond %{HTTP_HOST} !^alternative-raumfahrt\.de$ [NC]
+RewriteRule ^(.*)$ https://alternative-raumfahrt.de/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} !^alternativeraumfahrt\.de$ [NC]
+RewriteRule ^(.*)$ https://alternativeraumfahrt.de/$1 [R=301,L]
+
+# TODO http auf https umleiten
+
+# /feed/ (wie bei WordPress) auf Hugos index.xml umleiten
+RewriteRule ^feed/(.*)$ /index.xml [R=301,L]
