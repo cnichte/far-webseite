@@ -14,8 +14,7 @@
 
             {{ if $pag.HasPrev  }}
             <a href="{{ $pag.Prev.URL }}" rel="prev"
-                class="inline-flex items-center px-4 pt-4 text-lg font-black text-primary-600 dark:text-primary-400">‹
-                Prev</a>
+                class="inline-flex items-center px-4 pt-4 text-lg font-black text-primary-600 dark:text-primary-400">‹Danach</a>
             {{ end }}
 
             {{ range $pag.Pagers }}
@@ -41,15 +40,13 @@
 
             {{ if $pag.HasNext }}
             <a class="page-item"><a href="{{ $pag.Next.URL }}" rel="next"
-                    class="inline-flex items-center px-4 pt-4 text-lg font-black text-primary-600 dark:text-primary-400">Next
-                    ›</a></a>
+                    class="inline-flex items-center px-4 pt-4 text-lg font-black text-primary-600 dark:text-primary-400">Davor›</a></a>
             {{ end }}
 
             <!-- Don't show on last and 2nd last page -->
             {{ if and (ne $pag.PageNumber $pag.TotalPages) ((ne $pag.PageNumber (sub $pag.TotalPages 1))) }}
             <a class="page-item"><a href="{{ $pag.Last.URL }}" rel="last"
-                    class="inline-flex items-center px-4 pt-4 text-lg font-black text-primary-600 dark:text-primary-400">Last
-                    »</a></a>
+                    class="inline-flex items-center px-4 pt-4 text-lg font-black text-primary-600 dark:text-primary-400">Letze»</a></a>
             {{ end }}
         </div>
 </nav>
