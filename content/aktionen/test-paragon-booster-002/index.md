@@ -1,6 +1,6 @@
 ---
 title: "Test 2 - Paragon Booster"
-date: 2018-11-13T11:10:36+08:00
+date: 2018-11-13T12:00:36+08:00
 draft: false
 language: de
 featured_image: ../assets/images/featured/featured-img-placeholder.png

@@ -1,6 +1,6 @@
 ---
 title: "Test 3 - Paragon Booster"
-date: 2024-04-26T11:10:36+08:00
+date: 2024-04-26T12:00:00+08:00
 draft: false
 language: de
 summary: Am 26. April haben wir zum letzten mal vor dem Start der Nova I, den Paragon Booster getestet. Wir haben dazu den Prüfstand des DLR in Trauen nutzen dürfen. 
