@@ -3,7 +3,7 @@ title: "Start der Arguna III in Baumholder"
 date: 2014-12-08T11:10:00+00:00
 draft: false
 language: de
-summary: Am 8. Dezember 2014 hat die FAR auf dem Truppenübungsplatz Baumholder die sichere Durchführbarkeit von Raketenstarts auf Militärgeländen demonstriert.
+summary: Heute hat die FAR auf dem Truppenübungsplatz Baumholder die sichere Durchführbarkeit von Raketenstarts auf Militärgeländen demonstriert.
 description: 
 author: Victor
 authorimage: ../assets/images/global/far-author.png
@@ -14,7 +14,7 @@ tags:
     - Start 
 ---
 
-Am 8. Dezember 2014 hat die FAR auf dem [Truppenübungsplatz Baumholder](http://de.wikipedia.org/wiki/Truppenübungsplatz_Baumholder) die sichere Durchführbarkeit von Raketenstarts auf Militärgeländen demonstriert.
+Heute hat die FAR auf dem [Truppenübungsplatz Baumholder](http://de.wikipedia.org/wiki/Truppenübungsplatz_Baumholder) die sichere Durchführbarkeit von Raketenstarts auf Militärgeländen demonstriert.
 
 Neben der Arguna III ist die Modellrakete Pilot 1von Heijo Woelky geflogen.
 

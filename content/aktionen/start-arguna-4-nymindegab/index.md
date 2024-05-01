@@ -3,7 +3,7 @@ title: "Start der Arguna IV in Nymindegab"
 date: 2014-05-30T11:10:00+00:00
 draft: false
 language: de
-summary: Nach vier Jahren Vorbereitung und mehreren Anläufen sollte die Arguna IV am 30. Mai 2014 endlich ihren Jungfernflug absolvieren...
+summary: Nach vier Jahren Vorbereitung und mehreren Anläufen hat die Arguna IV endlich ihren Jungfernflug absolviert...
 description: 
 author: Franzi
 authorimage: ../assets/images/global/far-author.png
@@ -14,7 +14,7 @@ tags:
     - Start 
 ---
 
-Nach vier Jahren Vorbereitung und mehreren Anläufen sollte die Arguna IV am 30. Mai 2014 endlich ihren Jungfernflug absolvieren. Der Start war in der Vergangenheit mehrfach wegen technischer und meteorologischer Widrigkeiten abgesagt worden, teilweise sogar in letzter Minute. Die Zeit zwischen den Kampagnen nutzten wir für Verbesserungen an Nutzlast und Bergungssystem und so fuhren wir dieses Mal mit der vierten Version von Hard- und Software nach Dänemark.
+Nach vier Jahren Vorbereitung und mehreren Anläufen hat die Arguna IV endlich ihren Jungfernflug absolviert. Der Start war in der Vergangenheit mehrfach wegen technischer und meteorologischer Widrigkeiten abgesagt worden, teilweise sogar in letzter Minute. Die Zeit zwischen den Kampagnen nutzten wir für Verbesserungen an Nutzlast und Bergungssystem und so fuhren wir dieses Mal mit der vierten Version von Hard- und Software nach Dänemark.
 
 Die vorhergehenden Anläufe hatten gezeigt, wie schnell vor Ort die Zeit mit Routineaufgaben verstreicht und ein zu knapp kalkuliertes Zeitfenster zur Übermüdung aller Beteiligten führt. Um diesmal die Vorbereitungen in Ruhe und mit der notwendigen Aufmerksamkeit abschließen zu können, hatten wir in Hvide Sande (White Sands!) für eine Woche ein Ferienhaus angemietet. Der Start war ja für Freitag, den 30.5. angesetzt und so traf eine Woche vorher am Abend des Samstags die Vorhut bestehend aus David Madlener und Michael Witthaus ein. Für Sonntag morgen hatte sich Jeppe Locht vom DSC angemeldet, um freundlicherweise die Hardware vorbeizubringen, die wir nach der letzten Kampagne 2013 in Sporup eingelagert hatten. Als Jeppe um kurz vor 10 Uhr morgens die Sachen auf einem Anhänger vorbeibrachte, hatten wir die erste Schrecksekunde der Kampagne: Eine Flosse aus Dural war während des Transports abgebrochen!
 
