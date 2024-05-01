@@ -14,7 +14,7 @@ tags:
     - Start 
 ---
 
-Die FAR war von der Danish Space Challenge eingeladen, am 25. Juni 2015 in Borris mitzustarten. Für die FAR war dies eine willkommene Gelegenheit, Kontaktpflege zu betreiben und die schon in die Jahre gekommene Arguna 2 noch ein letztes Mal zu fliegen. Obwohl der Start doch nicht mehr erfolgreich war, konnte die FAR Erkenntnisse sammeln und neue Mitglieder gewinnen.
+Die FAR war von der Danish Space Challenge eingeladen, am 25. Juni 2015 in Borris mit zu starten. Für uns war das eine willkommene Gelegenheit, Kontaktpflege zu betreiben und die schon in die Jahre gekommene Arguna 2 noch ein letztes Mal zu fliegen. Obwohl der Start doch nicht mehr erfolgreich war, konnte die FAR Erkenntnisse sammeln und neue Mitglieder gewinnen.
 
 Die FAR dankt insbesondere [Carsten Nichte](https://carsten-nichte.de/) für die Dokumentation.
 

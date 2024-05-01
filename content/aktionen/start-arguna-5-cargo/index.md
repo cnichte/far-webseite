@@ -4,7 +4,7 @@ date: 2016-07-23T11:10:36+08:00
 draft: false
 language: de
 summary: Heute, am 23.07.2016 erreichte die FAR ihren nächsten Meilenstein mit dem erfolgreichen Start der Arguna 5 Cargo in Manching bei München. 
-description: Heute, am 23.07.2016 erreichte die FAR ihren nächsten Meilenstein mit dem erfolgreichen Start der Arguna 5 Cargo in Manching bei München...
+description:
 author: Carsten
 authorimage: ../assets/images/global/far-author.png
 categories: 

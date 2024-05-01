@@ -5,7 +5,7 @@ draft: false
 language: de
 featured_image: ../assets/images/featured/featured-img-placeholder.png
 summary: Am Samstag den 10.11.2018 führten wir den zweiten Test des Paragon Antriebs in Zülpich durch.
-description: Am Samstag den 10.11.2018 führten wir den zweiten Test des Paragon Antriebs in Zülpich durch..
+description:
 author: Julian
 authorimage: ../assets/images/global/far-author.png
 categories: 

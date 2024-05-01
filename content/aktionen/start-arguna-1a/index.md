@@ -1,6 +1,6 @@
 ---
 title: "Start der Arguna IA"
-date: 2012-04-14T11:10:36+08:00
+date: 2011-09-06T11:10:36+08:00
 draft: false
 language: de
 summary: Erster Start der Arguna 1A. Am Anfang der Zeitlupen Aufnahme sieht man...

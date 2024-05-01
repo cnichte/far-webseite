@@ -4,7 +4,7 @@ date: 2017-07-24T11:10:36+08:00
 draft: false
 language: de
 summary: Die verschiedenen Teilprojekte werden dezentral von kleinen Teams oder Einzelpersonen bearbeitet. Die FAR hält aber regelmäßig Workshops ab auf denen Erfahrungen ausgetauscht
-description: Die verschiedenen Teilprojekte werden dezentral von kleinen Teams oder Einzelpersonen bearbeitet. Die FAR hält aber regelmäßig Workshops ab auf denen Erfahrungen ausgetauscht...
+description:
 author: Carsten
 authorimage: ../assets/images/global/far-author.png
 categories: 
