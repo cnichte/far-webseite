@@ -88,7 +88,7 @@ params:
   p5:
     heading: "Kontakt aufnehmen"
     content:
-      - text: "Über folgende E-Mail Adresse können Sie uns eine Nachricht zukommen lassen:"
+      - text: "Über folgende E-Mail Adresse kannst Du uns eine Nachricht zukommen lassen:"
     action: "mailto:vorstand@alternative-raumfahrt.de"
     label: "Email address"
     placeholder: "Enter your email"
