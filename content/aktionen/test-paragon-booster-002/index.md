@@ -23,3 +23,6 @@ Nachdem der erste Test ergab, das die Isolierung in dieser Form mehr als ausreic
 
 Der Test brachte wieder viele Erkenntnisse, die in die Konstruktion der nächsten Ausbaustufe einfließen werden. Ziel ist es, die Brenndauer weiter zu steigern und eine gleichmässige Schubverteilung beizubehalten.
 
+* 16000Ns Gesamtimpuls
+* 4,2s effektive Brenndauer
+* 4000N Spitzenschub
