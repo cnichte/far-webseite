@@ -32,6 +32,6 @@ Der robuste Bremsschirm konnte jedoch trotz eines gerissenen Seils die Rakete au
 
 Hier die recht kurze Startsequenz der mit über 20 g beschleunigenden Rakete. Wegen des Windes konnte das 500-mm-Objektiv nicht stabilisiert werden.
 
-{{< youtube id="N-fvMsIg5G8" autoplay="true" color="white" yt_start="12" yt_end="24">}}
+{{< youtube id="N-fvMsIg5G8" autoplay="true" color="white" yt_start="0" yt_end="100">}}
 
 Wenn du dich für unsere Projekte interessierst, dann mach einfach mit oder folge uns auf unserer Facebook-Seite.

@@ -16,6 +16,6 @@ tags:
 
 Heute erreichte die FAR ihren nächsten Meilenstein mit dem erfolgreichen Start der Arguna 5 Cargo in Manching bei München. Statt großer Worte lassen wir einfach mal ein Video und ein paar Bilder sprechen:
 
-{{< youtube id="QaJCsa8DwEw" autoplay="true" color="white" yt_start="12" yt_end="24">}}
+{{< youtube id="QaJCsa8DwEw" autoplay="true" color="white" yt_start="0" yt_end="100">}}
 
 {{< lightbox folder="images/*" showImageNr=0 >}}

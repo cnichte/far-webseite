@@ -16,4 +16,4 @@ tags:
 
 Start der Arguna 1 in Manching.
 
-{{< youtube id="v6BiIVKkS10" autoplay="true" color="white" yt_start="12" yt_end="24">}}
+{{< youtube id="v6BiIVKkS10" autoplay="true" color="white" yt_start="0" yt_end="100">}}

@@ -16,4 +16,4 @@ tags:
 
 Erster Start der Arguna 1A. Am Anfang der Zeitlupen Aufnahme sieht man das Zünden der pyrotechnischen Verzögerung für die Bergung. Danach zündet der Motor.
 
-{{< youtube id="B6p7XsUAaVo" autoplay="true" color="white" yt_start="12" yt_end="24">}}
+{{< youtube id="B6p7XsUAaVo" autoplay="true" color="white" yt_start="0" yt_end="100">}}
