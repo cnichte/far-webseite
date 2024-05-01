@@ -24,9 +24,9 @@ Glücklicherweise haben die Mitglieder des DSC viel Erfahrung mit Schweißen von
 
 Will man etwas zusammenfügen, dann muss man es erstmal gut einspannen.
 
-Da wir den Flossen nach dieser konkreten Demonstration fehlender Elastizität in dieser Form nicht mehr zutrauten einen Start unbeschadet zu überleben, wurde beschlossen die Flossen mit Glasfaser zu verstärken. 3 s auf fast doppelte Schallgeschwindigkeit. Leider lag die Wolkenunterkante in etwa 1 km Höhe, so dass die Rakete vor Brennschluss aus unserem Blickfeld verschwand. An Bord war eine RedQueen DPU mit IMU und Telemetrie auf 70 cm, die den Verlauf des Fluges zur Bodenstation funkte. Zusätzlich war ein 2 m-Peilsender an einem Schwimmkörper befestigt und zwei Altimax zur Bergung eingebaut. Die Aktivierung des Bergungssystems erfolgte bedauerlicherweise etwas hinter dem Gipfelpunkt, was bei etwa 360 km/h zu einer Beschädigung des Vorfallschirms und einer Schwimmhilfe führte.
+Da wir den Flossen nach dieser konkreten Demonstration fehlender Elastizität in dieser Form nicht mehr zutrauten einen Start unbeschadet zu überleben, wurde beschlossen die Flossen mit Glasfaser zu verstärken. Leider lag die Wolkenunterkante in etwa 1 km Höhe, so dass die Rakete vor Brennschluss aus unserem Blickfeld verschwand. An Bord war eine RedQueen DPU mit IMU und Telemetrie auf 70 cm, die den Verlauf des Fluges zur Bodenstation funkte. Zusätzlich war ein 2 m-Peilsender an einem Schwimmkörper befestigt und zwei Altimax zur Bergung eingebaut. Die Aktivierung des Bergungssystems erfolgte bedauerlicherweise etwas hinter dem Gipfelpunkt, was bei etwa 360 km/h zu einer Beschädigung des Vorfallschirms und einer Schwimmhilfe führte.
 
-Der O-Motor mit 18 kg SUCA zündete sauber durch und beschleunigte die etwa 50 kg schwere Rakete Start innerhalb von...
+Der O-Motor mit 18 kg SUCA zündete sauber durch und beschleunigte die etwa 50 kg schwere Rakete Start innerhalb von 3 s auf fast doppelte Schallgeschwindigkeit.
 
 Der robuste Bremsschirm konnte jedoch trotz eines gerissenen Seils die Rakete auf etwa  40 m/s bremsen und den Hauptfallschirm mit der zweiten Schwimmhilfe auf 400 m Höhe über dem Meer aktivieren. Leider war die Fallzeit von knapp über zwei Minuten zu kurz für einen ersten Fix des mitgeführten GPS-Moduls, sodass das dänische Bergungsteam nur eine Peilung mit dem 2 m-Sender versuchen konnte. Da sich nur eine Schwimmhilfe bei der Wasserung aufblasen konnte, war die Rakete bei dem herrschenden Seegang nicht zu entdecken und konnte nicht geborgen werden. Ein Spaziergänger fand sie zwei Tage später am Strand und informierte die örtliche Polizei, die sich wiederum an die [Danish Space Challenge](https://www.facebook.com/DanishSpaceChallenge) wandte, die dann die Arguna IV in Empfang nehmen konnte. Leider fehlt die Spitze, in der sich die wertvolle Elektronik und auf einer SD-Karte gespeicherten Daten befinden. Wir sind dennoch sehr zufrieden mit dem Flugtag und den empfangenen Telemetriedaten.
 
@@ -34,4 +34,4 @@ Hier die recht kurze Startsequenz der mit über 20 g beschleunigenden Rakete. 
 
 {{< youtube id="N-fvMsIg5G8" autoplay="true" color="white" yt_start="0" yt_end="100">}}
 
-Wenn du dich für unsere Projekte interessierst, dann mach einfach mit oder folge uns auf unserer Facebook-Seite.
+Wenn du dich für unsere Projekte interessierst, dann mach einfach mit oder folge uns auf Facebook oder Instagram.

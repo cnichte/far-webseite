@@ -1,6 +1,6 @@
 ---
 title: "FAR-Workshop 2017.07"
-date: 2017-07-24T11:10:36+08:00
+date: 2017-07-24T11:00:36+08:00
 draft: false
 pinned: "right"
 language: de

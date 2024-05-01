@@ -1,6 +1,6 @@
 ---
 title: "Test 3 - Paragon Booster"
-date: 2024-04-26T12:00:00+08:00
+date: 2024-04-26T13:00:00+08:00
 draft: false
 pinned: "middle"
 language: de
