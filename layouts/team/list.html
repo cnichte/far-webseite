@@ -14,14 +14,8 @@
         </div>
         {{ end }}
 
-        <h2 class="py-5 text-3xl text-center text-gray-900 dark:text-gray-300">Aktive Mitglieder</h2>
-
-        {{ partial "team-template.html" (dict "myStatus" "aktiv" ) }}
-
-        <h2 class="py-5 text-3xl text-center text-gray-900 dark:text-gray-300">Inaktive Mitglieder / Sponsoren</h2>
-
-        {{ partial "team-template.html" (dict "myStatus" "sponsor" ) }}
-
+        {{ partial "team-template.html" (dict "myStatus" "aktiv" "myTitle" "Aktive Mitglieder") }}
+        {{ partial "team-template.html" (dict "myStatus" "sponsor" "myTitle" "Inaktive Mitglieder / Sponsoren") }}
         {{/* TODO Ehemalige Mitglieder */}}
         
     </article>

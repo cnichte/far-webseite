@@ -180,17 +180,17 @@
                         {{ $some_pages := where .Site.RegularPages "Section" "aktionen" }}
                         {{ $some_starts := where $some_pages "Params.categories" "intersect" (slice "Start") }}
                         {{ range first 1 (sort $some_starts ".Lastmod" "desc") }}
-                            {{ partial "card-action.html" . }}
+                            {{ partial "card-action-template.html" . }}
                         {{ end }}
 
                         {{ $some_tests := where $some_pages "Params.categories" "intersect" (slice "Test") }}
                         {{ range first 1 (sort $some_tests ".Lastmod" "desc") }}
-                            {{ partial "card-action.html" . }}
+                            {{ partial "card-action-template.html" . }}
                         {{ end }}
 
                         {{ $some_workshops := where $some_pages "Params.categories" "intersect" (slice "Workshop") }}
                         {{ range first 1 (sort $some_workshops ".Lastmod" "desc") }}
-                            {{ partial "card-action.html" . }}
+                            {{ partial "card-action-template.html" . }}
                         {{ end }}
 
                     </div>
