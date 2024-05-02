@@ -23,7 +23,7 @@ Wir haben den Booster probeweise montiert. Die drei Teile, also Deckel, Düsenha
 
 Ein Isolator aus Kork soll den Deckel während des Abbrands schützen und wird auf der Oberseite des Grains eingeklebt. Das am Ende im Video gezeigte Holzteil mit der sternförmigen Fräsung ist eine Schablone, um gerade Rillen in den Grain sägen zu können.
 
-{{< youtube id="RjsiOYr9WIY" autoplay="true" color="white" yt_start="12" yt_end="24">}}
+{{< youtube id="RjsiOYr9WIY" autoplay="true" color="white" yt_start="0" yt_end="100">}}
 
 ## Vorbereitung des FARduino
 
@@ -31,4 +31,4 @@ Der Farduino wurde für seinen Flug im August vorbereitet. Die Avionik basiert a
 
 {{< lightbox folder="images/farduino/*" showImageNr=0 >}}
 
-Ausserdem berichtete Heijo von unserem neuen Rufzeichen.  Die musikalische Untermalung erfolgte diesmal durch Julian. Hat wie immer viel Spaß gemacht, Fortsetzung folgt…
+Ausserdem berichtete Heijo von unserem neuen Rufzeichen.  Die musikalische Untermalung erfolgte diesmal durch Julian. Hat wie immer viel Spaß gemacht.

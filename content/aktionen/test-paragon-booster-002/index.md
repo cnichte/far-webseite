@@ -18,7 +18,7 @@ Am Samstag den 10.11.2018 führten wir den zweiten Test des Paragon Antriebs in 
 
 Nachdem der erste Test ergab, das die Isolierung in dieser Form mehr als ausreichend ist, wurde die Treibstoffmenge auf 10,6Kg erhöht. Der Treibstoffblock besteht in dieser Ausbaustufe aus zwei miteinander verbundenen Grains. Da der Düsenhalsdurchmesser bei dieser Konfiguration vergrößert werden musste,wurde eine Nozzleextension aus Phenol Hartgewebe aufgesetzt um das Expansionsverhältnis beizubehalten. Der Test zeigte, das die Extension bis kurz vor Schubende stand hielt, dann aber von den ausströmenden Gasen massiv abgetragen wird.
 
-{{< youtube id="XM4Diex8Rq4" autoplay="true" color="white" yt_start="12" yt_end="24">}}
+{{< youtube id="XM4Diex8Rq4" autoplay="true" color="white" yt_start="0" yt_end="100">}}
 
 Der Test brachte wieder viele Erkenntnisse, die in die Konstruktion der nächsten Ausbaustufe einfließen werden. Ziel ist es, die Brenndauer weiter zu steigern und eine gleichmässige Schubverteilung beizubehalten.
 

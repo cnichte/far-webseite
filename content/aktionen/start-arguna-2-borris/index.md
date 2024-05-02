@@ -1,5 +1,5 @@
 ---
-title: "Start der Aguna II in Borris"
+title: "Start der Arguna II in Borris"
 date: 2015-06-25T11:10:36+08:00
 draft: false
 language: de
