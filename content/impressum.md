@@ -28,7 +28,7 @@ Inhaltlich Verantwortlicher gemäß § 6 MDStV, und im Sinne des § 55 Abs. 2 Rs
 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
-# Datenschutzerklärung
+# Datenschutz Erklärung
 
 Verantwortlich: Kontaktdaten siehe oben.
 
