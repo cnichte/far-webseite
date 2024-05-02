@@ -24,13 +24,13 @@ Wenn Sie eine Spendenbescheinigung wünschen, kontaktieren Sie uns bitte per Mai
 
 Inhaltlich Verantwortlicher gemäß § 6 MDStV, und im Sinne des § 55 Abs. 2 RstV: FAR e.V. (Anschrift wie oben)
 
-## Haftungshinweis:
+## Haftungshinweis
 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
-# Datenschutz Erklärung
+# Datenschutz
 
-Verantwortlich: Kontaktdaten siehe oben.
+Datenschutzerklärung. Verantwortlich: Kontaktdaten siehe oben.
 
 ## Erhebung und Speicherung personenbezogener Daten sowie Art und Verwendungszweck
 
