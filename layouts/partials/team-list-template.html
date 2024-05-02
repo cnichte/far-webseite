@@ -13,7 +13,7 @@
             {{- $counter := (len $team_list) -}}
             {{ range $team_list }}
 
-            {{/* Card-Team start */}}
+            {{/* Team-Card start */}}
             <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
 
                 {{ if eq $status "aktiv" }}
@@ -26,14 +26,20 @@
                     {{- end }}
 
                 <div class="p-6">
+
+                    
                     <div class="flex-1">
                         <p class="text-2xl text-gray-900 dark:text-gray-300">{{ .name }}</p>
+                        {{ if gt (.aufgaben | len) 0 }}
                         <p class="mt-3 text-base text-gray-900 dark:text-gray-300"><span class="pr-2 font-black">Aufgaben:</span><br/>{{ .aufgaben }}</p>
+                        {{ end}}
                     </div>
+                    {{ if gt (.hintergrund | len) 0 }}
                     <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
                         <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
                         <span class="pr-2 font-black">Background:</span><br/>{{ .hintergrund }}</p>
                     </div>
+                    {{ end}}
                 </div>
                 {{ end }}
 
@@ -46,7 +52,7 @@
                 </div>
                 {{ end }}
             </div>
-            {{/* Card-Team end */}}
+            {{/* Team-Card end */}}
 
             {{ $counter = sub $counter 1 }}
             {{ end }}

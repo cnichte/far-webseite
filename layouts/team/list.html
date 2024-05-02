@@ -14,8 +14,8 @@
         </div>
         {{ end }}
 
-        {{ partial "team-template.html" (dict "myStatus" "aktiv" "myTitle" "Aktive Mitglieder") }}
-        {{ partial "team-template.html" (dict "myStatus" "sponsor" "myTitle" "Inaktive Mitglieder / Sponsoren") }}
+        {{ partial "team-list-template.html" (dict "myStatus" "aktiv" "myTitle" "Aktive Mitglieder") }}
+        {{ partial "team-list-template.html" (dict "myStatus" "sponsor" "myTitle" "Inaktive Mitglieder / Sponsoren") }}
         {{/* TODO Ehemalige Mitglieder */}}
         
     </article>
