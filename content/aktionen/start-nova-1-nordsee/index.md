@@ -20,3 +20,5 @@ Die FAR ist Teil der ersten Demo-Mission des [GOSA](https://de.wikipedia.org/wik
 # Weiterführende Links
 
 * [ohb - Erste Raketenstarts in der Nordsee für 2024 geplant](https://www.ohb.de/news/erste-raketenstarts-in-der-nordsee-fuer-2024-geplant-gosa-startet-erste-demo-mission)
+* [Tageschau](https://www.tagesschau.de/wissen/technologie/weltraumbahnhof-nordsee-102.html) - Weltraumbahnhof Nordsee
+* [forschung-und-wissen](https://www.forschung-und-wissen.de/nachrichten/astronomie/deutschland-weltraumbahnhof-soll-2023-betrieb-aufnehmen-13374467) - Deutschland Weltraumbahnhof soll 2023 Betrieb aufnehmen
