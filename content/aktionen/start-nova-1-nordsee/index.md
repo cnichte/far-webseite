@@ -12,6 +12,7 @@ categories:
 tags:
     - Nova
     - Start 
+    - Termin
 ---
 
 Die FAR ist Teil der ersten Demo-Mission des [GOSA](https://de.wikipedia.org/wiki/German_Offshore_Spaceport_Alliance)-Konsortiums. Insgesamt vier Teams starten im Juni 2024 von einer maritimen Plattform in der deutschen Ausschließlichen Wirtschaftszone (AWZ) in der Nordsee. Als Nutzlast fliegt CMEX von der [TUDSat](https://tudsat.space), und ein ADS-B Transceiver des [DLR](https://dlr.de/) mit.
