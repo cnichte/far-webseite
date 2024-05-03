@@ -9,7 +9,8 @@ Basiert auf
 
 * [Hugo](https://gohugo.io)
 * [Hugo Theme Tailbliss](https://github.com/nusserstudios/tailbliss)
-* [Tailwind](https://tailwindcss.com/)
+* [Tailwind CSS 3](https://tailwindcss.com/)
+* [Apline.JS](https://alpinejs.dev/)
 
 ## Voraussetungen
 

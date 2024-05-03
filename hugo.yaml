@@ -58,7 +58,7 @@ params:
     image: "images/pages/startpage-our-mission.png"
     content:
       - text: "Eines unserer Hauptziele ist es mit normalen im Handel erhältlichen Bauteilen robuste, zuverlässige, preiswerte und umweltfreundliche Raketen, zu bauen. Wir wollen den Bau von Raketen genauso normalisieren, wie es heute der Bau von Fahrzeugen, Schiffen und Flugzeugen ist. Durch konsequenten Einsatz von COTS (Commercial Off-The-Shelf) -Komponenten und günstigen Materialien wie Stahl, Aluminium und Glasfaser und neuartigen Herstellungstechniken, wie dem 3D-Druck, versuchen wir dieses Ziel zu erreichen."
-      - text: "Nova-Missionsziele"
+      - text: "__Nova-Missionsziele__"
       - text: "Einsatz des neuen Fernzündungssystems - Test des Paragon-Boosters im Flug - Erstflug der RedQueen II-Avionik - Live-Telemetriedaten der Nutzlast CMEX - Validierung des Schiffsbergungssystems - Erreichen von TRL 7 für Nova."
 #  p2:
 #    heading: "Just in time for Hacktoberfest with JIT Tailwind."
@@ -106,7 +106,7 @@ params:
       url: 'https://instagram.com/nusserstudios'
     twitter:
       enabled: false
-      url: '@nusserstudios'
+      url: ''
     
 menu:
   main:
