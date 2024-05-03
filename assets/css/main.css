@@ -21,6 +21,10 @@ Android Emoji,
 EmojiSymbols;
 /* Custom CSS */
 
+.fslightbox-container {
+    background: linear-gradient(rgba(30,30,30,1.0),#000 1810%) !important;
+}
+
 .prose :where(h1):not(:where([class~="not-prose"] *)) {
     color: white !important;
 }
