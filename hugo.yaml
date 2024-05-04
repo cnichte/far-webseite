@@ -50,14 +50,14 @@ params:
   authorimage: ../assets/images/global/far-author.png
   og_image: /images/far-cover.png
   moto: ""
-  description: "Wir sind ein kleines Team aus Raumfahrtenthusiasten, Wissenschaftlern und Ingenieuren die Ihre knappe Freizeit damit verbringen aufregende Projekte mit Raumfahrtbezug zu verwirklichen."
+  description: "Wir sind ein Team aus Raumfahrtenthusiasten, Wissenschaftlern und Ingenieuren die Ihre Freizeit damit verbringen aufregende Projekte mit Raumfahrtbezug zu verwirklichen."
   disable_theme_toggle: false
   disable_stay_uptodate: false
   p1:
     heading: "Unsere Mission"
     image: "images/pages/startpage-our-mission.png"
     content:
-      - text: "Eines unserer Hauptziele ist es mit normalen im Handel erhältlichen Bauteilen robuste, zuverlässige, preiswerte und umweltfreundliche Raketen, zu bauen. Wir wollen den Bau von Raketen genauso normalisieren, wie es heute der Bau von Fahrzeugen, Schiffen und Flugzeugen ist. Durch konsequenten Einsatz von COTS (Commercial Off-The-Shelf) -Komponenten und günstigen Materialien wie Stahl, Aluminium und Glasfaser und neuartigen Herstellungstechniken, wie dem 3D-Druck, versuchen wir dieses Ziel zu erreichen."
+      - text: "Eines unserer Hauptziele ist es mit normalen im Handel erhältlichen Bauteilen robuste, zuverlässige, preiswerte und umweltfreundliche Raketen, zu bauen. Wir wollen den Bau von Raketen genauso normalisieren, wie es heute der Bau von Fahrzeugen, Schiffen und Flugzeugen ist. Durch konsequenten Einsatz von COTS (Commercial Off-The-Shelf) -Komponenten und günstigen Materialien wie Stahl, Aluminium und Glasfaser und neuartigen Herstellungstechniken, wie dem 3D-Druck, versuchen wir dieses Ziel zu erreichen. Wir stehen als gemeinnütziger Verein in stetigem Austausch mit studentischen Gruppen und Universitäten."
       - text: "__Nova-Missionsziele__"
       - text: "Einsatz des neuen Fernzündungssystems - Test des Paragon-Boosters im Flug - Erstflug der RedQueen II-Avionik - Live-Telemetriedaten der Nutzlast CMEX - Validierung des Schiffsbergungssystems - Erreichen von TRL 7 für Nova."
 #  p2:
