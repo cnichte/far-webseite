@@ -2,7 +2,7 @@
 
 Die [Webseite](https://alternative-raumfahrt.de) der Forschungsgemeinschaft alternative Raumfahrt e.V.
 
-* [GitLab homepage](https://gitlab.com/glimpse-of-life/far-webseite)
+* [Github homepage](https://github.com/cnichte/far-webseite)
 * [Netlify Test-Umgebung](https://alternative-raumfahrt.netlify.app/)
 
 Basiert auf
@@ -20,7 +20,7 @@ Installation von
 * [https://nodejs.org/en/learn/getting-started/how-to-install-nodejs](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)
 * [https://docs.npmjs.com/downloading-and-installing-node-js-and-npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-```
+```bash
 node -v
 npm -v
 hugo version
@@ -30,29 +30,30 @@ hugo version
 
 Für gemeinames Arbeiten das Git Archiv in ein lokales Verzeichnis clonen:
 
-* [https://gitlab.com/glimpse-of-life/far-test.git](https://gitlab.com/glimpse-of-life/far-test.git)
+* [https://github.com/cnichte/far-webseite.git](https://github.com/cnichte/far-webseite.git)
 
 Ich arbeite mit Visual Studio Code.
 
-```
+```bash
 npm install
 ```
 
 ## Dev server starten
 
-```
+```bash
 npm run dev
 ```
+
 Der Server ist unter [http://localhost:1313/](http://localhost:1313/) erreichbar, und kann mit `Ctrl+C` beendet werden.
 
 ## Webseite kompilieren
 
 * Die Webseite wird im Verzeichnis `public` erzeugt.
 * Optional vorher unerwünschte Dateien löschen.
-* Vor dem finalen Build ein git commit machen. 
+* Vor dem finalen Build ein git commit machen.
 * Das Änderugsdatum wird erst danach wirksam. Das hat einen Einfluss auf die Sortierfolge von Listen haben, wenn nach Datum sortiert oder gefiltert wird.
 
-```
+```bash
 find . -type f -name .DS_Store -delete
 npm run build
 ```
@@ -63,12 +64,11 @@ Ein build fügt nur zum `public` Verzeichnis hinzu. Es werden keine Inhalte gel�
 
 Hugo veröffentlicht keine Inhalte, wenn:
 
-- `draft` value is true
-- `date` is in the future
-- `lastmod` is in the future
-- `publishDate` is in the future
-- `The expiryDate` is in the past
-
+* `draft` value is true
+* `date` is in the future
+* `lastmod` is in the future
+* `publishDate` is in the future
+* `The expiryDate` is in the past
 
 Also nicht wundern.
 
@@ -80,7 +80,7 @@ zip -r far-webseite-backup-$(date +"%Y-%m-%d").zip . -x '/node_modules/**' '/pub
 
 ### Check Packages for Updates and update
 
-- https://www.npmjs.com/package/npm-check-updates
+* <https://www.npmjs.com/package/npm-check-updates>
 
 ```bash
 npx npm-check-updates
