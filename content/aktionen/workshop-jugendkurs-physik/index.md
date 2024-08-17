@@ -18,9 +18,8 @@ Das Ziel des Online-Kurses ist es den Kindern die Grundlagen der Physik so beizu
 * Der Kurs beginnt am 18. August 2024 und wird ca. 36 Monate laufen.
 * Der Unterricht findet jeden Sonntag um 18 Uhr statt.
 * Die Teilnehmer sind derzeit zwischen 10 und 15 Jahre alt.
-* Die Teilnahme ist kostenfrei. Sie können die FAR e.V. aber gerne mit einer Spende unterstützen. Bei einer Überweisung geben Sie bitte im Verwendungszweck "Jugendkurs Physik" an. Sie können die Spenden von der Steuer absetzen, da wir als gemeinnützig anerkannt sind.
 
-Alle Infos zu Teilnahmemöglichkeiten gibt es per Email an <vorstand@alternative-raumfahrt.de>
+Die Infos zu den Kosten und Teilnahmemöglichkeiten gibt es per Email an <physikkurse@gmx.de>.
 
 ## Inhalte
 
