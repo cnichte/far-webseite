@@ -26,6 +26,15 @@ npm -v
 hugo version
 ```
 
+## Verzeichnis Struktur
+
+Da hat sich folgendes bewährt, vor allem wenn man WakaTime bzw. ein selfhosted [Wakapi](https://wakapi.dev) zum Zeiten tracken verwendet:
+
+* `projekte/far-webseite/produktion/far-webseite/`
+* `projekte/far-webseite/test/far-webseite/`
+* `projekte/far-webseite/entwicklung/far-webseite/`
+* `projekte/far-webseite/migration/far-webseite/`
+
 ## Git archiv clonen
 
 Für gemeinames Arbeiten das Git Archiv in ein lokales Verzeichnis clonen:
@@ -92,7 +101,7 @@ VORHER EIN BACKUP VOM VERZEICHNIS MACHEN
 
 ### Migration
 
-Falls nach einem Update nix mehr läuft, Bitte im Verzeichnis `migration` ein aktuelles Tailbliss aufsetzen und die Inhalte aus der Produktion mit der App BeyondCompre rüber migrieren.
+Falls nach einem Update nix mehr läuft, bitte im Verzeichnis `migration` ein aktuelles Tailbliss aufsetzen und die Inhalte aus der Produktion mit der App BeyondCompre rüber migrieren.
 
 #### Aktuelles Tailbliss aufsetzen
 
