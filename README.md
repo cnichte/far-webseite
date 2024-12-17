@@ -87,3 +87,26 @@ npx npm-check-updates
 npx npm-check-updates -u
 npm install
 ```
+
+VORHER EIN BACKUP VOM VERZEICHNIS MACHEN
+
+### Migration
+
+Falls nach einem Update nix mehr läuft, Bitte im Verzeichnis `migration` ein aktuelles Tailbliss aufsetzen und die Inhalte aus der Produktion mit der App BeyondCompre rüber migrieren.
+
+#### Aktuelles Tailbliss aufsetzen
+
+* <https://github.com/nusserstudios/tailbliss>
+
+Bitte ==NICHT== der Anleitung dort folgen:
+
+```bash
+Install to VS Code with:
+git clone git@github.com:nusserstudios/tailbliss your-name
+```
+
+==SONDERN==: `Clone using the web URL` in VS-Code verwenden:
+
+* <https://github.com/nusserstudios/tailbliss.git>
+
+![VS-Code Welcome Screen](images-readme/VS-Code-Willkommen.png?raw=true "Title")
