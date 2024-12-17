@@ -64,10 +64,13 @@ Der Server ist unter [http://localhost:1313/](http://localhost:1313/) erreichbar
 
 ```bash
 find . -type f -name .DS_Store -delete
+# gefolgt von einem 
 npm run build
+# oder
+npm run cleanbuild
 ```
 
-Ein build fügt nur zum `public` Verzeichnis hinzu. Es werden keine Inhalte gelöscht! Deshalb ist es ratsam, das Verzeichnis von Zeit zu Zeit vor dem Build zu löschen.
+Ein build fügt nur zum `public` Verzeichnis hinzu. Es werden keine Inhalte gelöscht! Deshalb ist es ratsam, das Verzeichnis von Zeit zu Zeit vor dem Build zu löschen, oder `cleanbuild` zu benutzen.
 
 ### Fallstricke
 
@@ -87,7 +90,7 @@ Also nicht wundern.
 zip -r far-webseite-backup-$(date +"%Y-%m-%d").zip . -x '/node_modules/**' '/public/**' 'resources/_gen/*' '.git/*' '*.zip'
 ```
 
-### Check Packages for Updates and update
+## Check Packages for Updates and update
 
 * <https://www.npmjs.com/package/npm-check-updates>
 
@@ -99,11 +102,11 @@ npm install
 
 VORHER EIN BACKUP VOM VERZEICHNIS MACHEN
 
-### Migration
+### Update und Migration
 
-Falls nach einem Update nix mehr läuft, bitte im Verzeichnis `migration` ein aktuelles Tailbliss aufsetzen und die Inhalte aus der Produktion mit der App BeyondCompre rüber migrieren.
+Falls nach einem Update nix mehr läuft, bitte im Verzeichnis `migration` ein aktuelles Tailbliss aufsetzen und die Inhalte aus der Produktion mit der App BeyondCompare rüber migrieren...
 
-#### Aktuelles Tailbliss aufsetzen
+### Aktuelles Tailbliss aufsetzen
 
 * <https://github.com/nusserstudios/tailbliss>
 
