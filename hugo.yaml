@@ -6,7 +6,10 @@ enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
-paginate: 9
+# deprecated: site config key paginate was deprecated in Hugo v0.128.0
+# paginate: 9
+pagination:
+  pagerSize: 9
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
@@ -162,12 +165,7 @@ menu:
       name: Impressum
       url: /impressum/
       weight: 30
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-
+      
 taxonomies:
   category: Categories
   tag: Tags
