@@ -110,14 +110,24 @@ Falls nach einem Update nix mehr läuft, bitte im Verzeichnis `migration` ein ak
 
 * <https://github.com/nusserstudios/tailbliss>
 
-Bitte ==NICHT== der Anleitung dort folgen:
+Bitte NICHT der Anleitung dort folgen:
 
 ```bash
 Install to VS Code with:
-git clone git@github.com:nusserstudios/tailbliss your-name
+git clone git@github.com:nusserstudios/tailbliss cnichte
 ```
 
-==SONDERN==: `Clone using the web URL` in VS-Code verwenden:
+Das führt zu einem Fehler der Art:
+
+```bash
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+```
+
+SONDERN: `Clone using the web URL` in VS-Code verwenden:
 
 * <https://github.com/nusserstudios/tailbliss.git>
 
