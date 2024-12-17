@@ -15,7 +15,7 @@ params:
   author: Nusser Studios
   authorimage: ../assets/images/global/far-author.png
   og_image: /images/tailbliss-cover.png
-  moto: ""
+  moto: "Super Fast, and Flexible"
   description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
   disable_theme_toggle: false
   disable_stay_uptodate: true
