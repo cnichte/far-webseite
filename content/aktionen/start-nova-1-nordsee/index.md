@@ -17,7 +17,7 @@ tags:
 
 Die FAR ist Teil der ersten Demo-Mission des [GOSA](https://de.wikipedia.org/wiki/German_Offshore_Spaceport_Alliance)-Konsortiums. Insgesamt vier Teams starten im Juni 2024 von einer maritimen Plattform in der deutschen Ausschließlichen Wirtschaftszone (AWZ) in der Nordsee. Wir gehen mit der Nova 1 an den Start. Als Nutzlast fliegt CMEX von der [TUDSat](https://tudsat.space), und ein ADS-B Transceiver des [DLR](https://dlr.de/) mit.
 
-# Weiterführende Links
+## Weiterführende Links
 
 * [ohb - Erste Raketenstarts in der Nordsee für 2024 geplant](https://www.ohb.de/news/erste-raketenstarts-in-der-nordsee-fuer-2024-geplant-gosa-startet-erste-demo-mission)
 * [Tagesschau](https://www.tagesschau.de/wissen/technologie/weltraumbahnhof-nordsee-102.html) - Weltraumbahnhof Nordsee
