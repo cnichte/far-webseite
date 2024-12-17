@@ -51,6 +51,8 @@ npm install
 
 ```bash
 npm run dev
+# oder
+npm start
 ```
 
 Der Server ist unter [http://localhost:1313/](http://localhost:1313/) erreichbar, und kann mit `Ctrl+C` beendet werden.
@@ -60,9 +62,10 @@ Der Server ist unter [http://localhost:1313/](http://localhost:1313/) erreichbar
 * Die Webseite wird im Verzeichnis `public` erzeugt.
 * Optional vorher unerwünschte Dateien löschen.
 * Vor dem finalen Build ein git commit machen.
-* Das Änderugsdatum wird erst danach wirksam. Das hat einen Einfluss auf die Sortierfolge von Listen haben, wenn nach Datum sortiert oder gefiltert wird.
+* Das Änderugsdatum wird erst danach wirksam. Das hat einen Einfluss auf die Sortierfolge von Listen, wenn nach Datum sortiert oder gefiltert wird.
 
 ```bash
+# unerwünschte Dateien löschen
 find . -type f -name .DS_Store -delete
 # gefolgt von einem 
 npm run build
@@ -113,8 +116,8 @@ Falls nach einem Update nix mehr läuft, bitte im Verzeichnis `migration` ein ak
 Bitte NICHT der Anleitung dort folgen:
 
 ```bash
-Install to VS Code with:
-git clone git@github.com:nusserstudios/tailbliss cnichte
+# Install to VS Code with:
+git clone git@github.com:nusserstudios/tailbliss my-folder
 ```
 
 Das führt zu einem Fehler der Art:
