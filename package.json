@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/glimpse-of-life/far-webseite.git"
+    "url": "git+https://github.com/cnichte/far-webseite.git"
   },
   "keywords": [
     "hugo",
@@ -41,7 +41,7 @@
   "author": "Carsten Nichte",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://gitlab.com/glimpse-of-life/far-webseite/issues"
+    "url": "https://github.com/cnichte/far-webseite/issues"
   },
-  "homepage": "https://gitlab.com/glimpse-of-life/far-webseite"
+  "homepage": "https://github.com/cnichte/far-webseite"
 }
